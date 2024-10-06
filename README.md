@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Arnav! 👋</h1>
-<h3 align="center">Data Analyst | AI & ML Enthusiast | Passionate About Data-Driven Insights</h3>
+<h3 align="center">Data Analyst | AI & ML Enthusiast | Front-End Developer | Passionate About Data-Driven Insights</h3>
 
 <p align="right">
     <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -18,7 +18,7 @@
 ---
 
 - 🌱 Currently Learning: **Data Science**
-- 💬 Ask Me About: **Cyber Security, AI, ML, Web Development**
+- 💬 Ask Me About: **Cyber Security, AI, ML, Web Development, Front-End Development**
 - 📫 Reach Me At: [arnavdhiman47@gmail.com](mailto:arnavdhiman47@gmail.com)
 - ⚡ Hobbies: **Travel Enthusiast & Fitness Advocate**
 
